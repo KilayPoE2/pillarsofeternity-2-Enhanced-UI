@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
-  
-  
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3299</EntryCount>
   <Entries>
   <Entry>
   <ID>237</ID>
@@ -1291,7 +1291,7 @@
     </Entry>
 	<Entry>
       <ID>1470</ID>
-      <DefaultText>Il Sacerdote trabocca di potenza e si circonda di un alone soprannaturale. Come incarnazione minore della sua divinità, il Sacerdote ottiene le Ispirazioni &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Veloce&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Forte&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;In Forma&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Acuto&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Profondo&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; e &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Nerbo&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; cosi come un bonus a &lt;link="glossary://GlossaryEntry_Health"&gt;&lt;b&gt;Salute&lt;/b&gt;&lt;space=0.7em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; e al Danno delle Armi.</DefaultText>
+      <DefaultText>Il Sacerdote trabocca di potenza e si circonda di un alone soprannaturale. Come incarnazione minore della sua divinità, il Sacerdote ottiene le Ispirazioni &lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Veloce&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Forte&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;In Forma&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Acuto&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Profondo&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; e &lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Nerbo&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; cosi come un bonus a Salute e al Danno delle Armi.</DefaultText>
       <FemaleText />
     </Entry>
 	<Entry>
@@ -1683,7 +1683,7 @@ A una mano: Danno &lt;link="glossary://GlossaryEntry_Raw"&gt;Puro&#160;&lt;sprit
     </Entry>
     <Entry>
       <ID>2044</ID>
-      <DefaultText>(Cecità Frustrante) - mentre viene &lt;link="gamedata://76a5e15a-e75c-4853-889b-2e9229d46444"&gt;&lt;#ca58ff&gt;Accecato &lt;sprite="Inline" name="attribute_perception" tint=1&gt;₃&lt;/color&gt;&lt;/link&gt;, gli attacchi aggiungono una penalità Cumulabile alla &lt;link="glossary://GlossaryEntry_Deflection"&gt;Deflessione&#160;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/link&gt;.</DefaultText>
+      <DefaultText>(&lt;xg&gt;Cecità&lt;/xg&gt; Frustrante) - mentre viene &lt;link="gamedata://76a5e15a-e75c-4853-889b-2e9229d46444"&gt;&lt;#ca58ff&gt;Accecato &lt;sprite="Inline" name="attribute_perception" tint=1&gt;₃&lt;/color&gt;&lt;/link&gt;, gli attacchi aggiungono una penalità Cumulabile alla &lt;link="glossary://GlossaryEntry_Deflection"&gt;Deflessione&#160;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2082,7 +2082,7 @@ Nonostante questi vantaggi, la relazione comporta dei rischi. I Ranger condivido
     </Entry>
      <Entry>
       <ID>2423</ID>
-      <DefaultText>(Urlo Disorientante) - Anche i nemici subiscono Danno da &lt;link="glossary://GlossaryEntry_Crushing"&gt;Impatto&#160;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/link&gt; e vengono &lt;link="gamedata://3a790bc4-40a9-4d9f-8da8-a76f3cb6c5e1"&gt;&lt;#ff4800&gt;Disorientati &lt;sprite="Inline" name="attribute_might" tint=1&gt;₂&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <DefaultText>(Urlo &lt;xg&gt;Disorientante&lt;/xg&gt;) - Anche i nemici subiscono Danno da &lt;link="glossary://GlossaryEntry_Crushing"&gt;Impatto&#160;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/link&gt; e vengono &lt;link="gamedata://3a790bc4-40a9-4d9f-8da8-a76f3cb6c5e1"&gt;&lt;#ff4800&gt;Disorientati &lt;sprite="Inline" name="attribute_might" tint=1&gt;₂&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2137,7 +2137,7 @@ Nonostante questi vantaggi, la relazione comporta dei rischi. I Ranger condivido
     </Entry>
     <Entry>
       <ID>2494</ID>
-      <DefaultText>(Comando Velocizzante) - Oltre all'Ispirazione &lt;link="gamedata://a0b4a490-2c99-456e-b6fb-131353133fba"&gt;&lt;#72da26&gt;Veloce &lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;¹&lt;/color&gt;&lt;/link&gt; conferisce anche quella &lt;link="gamedata://79b41b80-d3c4-4176-a44b-69490efa41a8"&gt;&lt;#ff4800&gt;Forte &lt;sprite="Inline" name="attribute_might" tint=1&gt;¹&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <DefaultText>(Comando &lt;xg&gt;Velocizzante&lt;/xg&gt;) - Oltre all'Ispirazione &lt;link="gamedata://a0b4a490-2c99-456e-b6fb-131353133fba"&gt;&lt;#72da26&gt;Veloce &lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;¹&lt;/color&gt;&lt;/link&gt; conferisce anche quella &lt;link="gamedata://79b41b80-d3c4-4176-a44b-69490efa41a8"&gt;&lt;#ff4800&gt;Forte &lt;sprite="Inline" name="attribute_might" tint=1&gt;¹&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
